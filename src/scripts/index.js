@@ -1,6 +1,6 @@
-import store from './store.js';
-import item from './item.js';
-import shoppingList from './shopping-list.js';
+import store from './store';
+import item from './item';
+import shoppingList from './shopping-list';
 
 
 const main = function () {
